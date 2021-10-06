@@ -12,6 +12,7 @@
 <body>
     <audio src="Musique/lil.mp3"></audio>
     <button>PLAY</button>
+    <button class="pause"> || </button>
 </body>
 <script src="script.js"></script>
 
