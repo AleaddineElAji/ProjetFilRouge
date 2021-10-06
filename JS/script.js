@@ -1,5 +1,5 @@
-var sound = new Howl({
-  src: ['sound.mp3']
-});
+<script src="/path/to/howler.js"></script>
 
-sound.play();
+    var sound = new Howl({
+      src: ['sound.webm', 'sound.mp3']
+    });
