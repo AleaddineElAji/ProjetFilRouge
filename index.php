@@ -8,6 +8,7 @@
     <title>Musique</title>
 </head>
 <body>
+    <audio src="Musique/lil.mp3"></audio>
     <button>PLAY</button>
 </body>
 <script src="script.js"></script>
